@@ -1,0 +1,10 @@
+PODS:
+  - PinYin4Objc (1.1.1)
+
+DEPENDENCIES:
+  - PinYin4Objc (~> 1.1.1)
+
+SPEC CHECKSUMS:
+  PinYin4Objc: 3fa9673610368330e2dfb688b1d19a35c3930a78
+
+COCOAPODS: 0.39.0
